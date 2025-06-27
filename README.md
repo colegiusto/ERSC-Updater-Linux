@@ -33,7 +33,7 @@ These are typically pre-installed on most Linux distributions.
 Note: The exact steps and terminology may vary slightly depending on your specific desktop environment (e.g., GNOME, KDE, MATE).
 Save the `ersc-update.sh` script to a convenient location on your computer (e.g., `~/Downloads` or `~/Scripts`).
 
-Example (GNOME):
+
 ### 2. Make the Script Executable
 
 Open the "Files" app.
